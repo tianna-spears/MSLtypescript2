@@ -1,5 +1,7 @@
 ## Using the Lab start and end solution files
 
+MSLTypeScript2-  Module 2
+
 You can use the TypeScript [Playground](https://www.typescriptlang.org/play), Visual Studio Code, or any TypeScript-compatible IDE to complete the labs in the "Developing JavaScript applications using TypeScript" [LINK TO the Developing JavaScript applications using TypeScript] learning path.
 
 The **start** and **end** solutions for each lab are located in the **code** folder. In each lab, you will be provided with a link to each folder, as appropriate, for easy access. 
